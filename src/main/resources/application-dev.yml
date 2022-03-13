@@ -1,0 +1,4 @@
+env: dev
+rooms:
+  total:
+    available: 10
